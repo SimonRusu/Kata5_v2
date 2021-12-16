@@ -1,6 +1,6 @@
 package kata5_v2.main;
 
-import kata5_v2model.Histogram;
+import kata5_v2.model.Histogram;
 import kata5_v2.view.HistogramDisplay;
 import kata5_v2.view.MailHistogramBuilder;
 import kata5_v2.view.MailListReaderBD;

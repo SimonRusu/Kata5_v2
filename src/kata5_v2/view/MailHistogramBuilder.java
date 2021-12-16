@@ -2,7 +2,7 @@ package kata5_v2.view;
 
 import java.util.ArrayList;
 import kata5_v2model.Mail;
-import kata5_v2model.Histogram;
+import kata5_v2.model.Histogram;
 
 /**
  *
